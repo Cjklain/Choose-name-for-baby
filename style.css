@@ -5,24 +5,31 @@ body {
     flex-direction: column;
     justify-content: space-between;
     text-align: center;
+    background-color: #D3DEDC
     
     
 }
 
 header {
     background-color: #D3DEDC;
-    padding: 20px;
+    padding: 30px;
 }
 
 main {
     flex: 1;
     display: flex;
     flex-direction: column;
-    background-color: black;
+    
+}
+
+.select{
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
 }
 
 .choose {
-    flex: 1;
     background-color: #D3DEDC;
     display: flex;
     justify-content: center;
@@ -66,6 +73,7 @@ button {
 
 button.boy {
     background-color: cornflowerblue;
+    transition: 0.1;
 }
 
 button.girl {
@@ -77,5 +85,15 @@ button.boy:hover {
 }
 
 button.girl:hover {
-    background-color: salmon;
+    background-color: rgb(238, 226, 240);
+}
+
+button:hover {
+    background-color: darkgray;
+}
+
+.selected {
+    border: 4px goldenrod solid;
+    opacity: 1;
+    
 }
