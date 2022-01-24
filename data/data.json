@@ -1,0 +1,5089 @@
+{
+  "Arkusz1": [
+    {
+      "Imię": "ANTONI",
+      "Liczba": "3862",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "JAN",
+      "Liczba": "3535",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "ALEKSANDER",
+      "Liczba": "3353",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "FRANCISZEK",
+      "Liczba": "3252",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "JAKUB",
+      "Liczba": "3236",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "SZYMON",
+      "Liczba": "2575",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "MIKOŁAJ",
+      "Liczba": "2536",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "LEON",
+      "Liczba": "2479",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "FILIP",
+      "Liczba": "2372",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "STANISŁAW",
+      "Liczba": "2295",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "IGNACY",
+      "Liczba": "2194",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "WOJCIECH",
+      "Liczba": "2158",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "NIKODEM",
+      "Liczba": "2081",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "TYMON",
+      "Liczba": "1888",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "KACPER",
+      "Liczba": "1855",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "ADAM",
+      "Liczba": "1850",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "MARCEL",
+      "Liczba": "1781",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "MICHAŁ",
+      "Liczba": "1597",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "WIKTOR",
+      "Liczba": "1436",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "MAKSYMILIAN",
+      "Liczba": "1410",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "TYMOTEUSZ",
+      "Liczba": "1342",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "IGOR",
+      "Liczba": "1330",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "OLIWIER",
+      "Liczba": "1303",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "PIOTR",
+      "Liczba": "1185",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "MIŁOSZ",
+      "Liczba": "1144",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "JULIAN",
+      "Liczba": "1051",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "OSKAR",
+      "Liczba": "993",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "BARTOSZ",
+      "Liczba": "843",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "DAWID",
+      "Liczba": "839",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "GABRIEL",
+      "Liczba": "794",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "KRZYSZTOF",
+      "Liczba": "768",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "MATEUSZ",
+      "Liczba": "764",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "DOMINIK",
+      "Liczba": "720",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "KAROL",
+      "Liczba": "700",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "HUBERT",
+      "Liczba": "675",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "TOMASZ",
+      "Liczba": "663",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "ALAN",
+      "Liczba": "652",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "BRUNO",
+      "Liczba": "611",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "FABIAN",
+      "Liczba": "601",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "MACIEJ",
+      "Liczba": "598",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "NATAN",
+      "Liczba": "573",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "KSAWERY",
+      "Liczba": "468",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "PAWEŁ",
+      "Liczba": "464",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "HENRYK",
+      "Liczba": "456",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "CEZARY",
+      "Liczba": "455",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "TADEUSZ",
+      "Liczba": "448",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "ARTUR",
+      "Liczba": "427",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "BORYS",
+      "Liczba": "425",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "BARTŁOMIEJ",
+      "Liczba": "381",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "KUBA",
+      "Liczba": "366",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "KAJETAN",
+      "Liczba": "362",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "PATRYK",
+      "Liczba": "348",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "OLAF",
+      "Liczba": "336",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "KAMIL",
+      "Liczba": "335",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "JÓZEF",
+      "Liczba": "334",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "WITOLD",
+      "Liczba": "325",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "ADRIAN",
+      "Liczba": "301",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "KAZIMIERZ",
+      "Liczba": "294",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "DANIEL",
+      "Liczba": "292",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "GRZEGORZ",
+      "Liczba": "289",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "ERYK",
+      "Liczba": "277",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "TEODOR",
+      "Liczba": "258",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "MILAN",
+      "Liczba": "253",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "SEBASTIAN",
+      "Liczba": "247",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "KRYSTIAN",
+      "Liczba": "237",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "KORNEL",
+      "Liczba": "236",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "JERZY",
+      "Liczba": "235",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "STEFAN",
+      "Liczba": "231",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "KONSTANTY",
+      "Liczba": "212",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "RYSZARD",
+      "Liczba": "210",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "GUSTAW",
+      "Liczba": "209",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "MIESZKO",
+      "Liczba": "209",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "TOBIASZ",
+      "Liczba": "209",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "RAFAŁ",
+      "Liczba": "200",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "LEONARD",
+      "Liczba": "198",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "ROBERT",
+      "Liczba": "189",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "MARCIN",
+      "Liczba": "183",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "EMIL",
+      "Liczba": "175",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "LEO",
+      "Liczba": "173",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "ALEKS",
+      "Liczba": "168",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "PRZEMYSŁAW",
+      "Liczba": "168",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "FELIKS",
+      "Liczba": "166",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "OLIVIER",
+      "Liczba": "164",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "ŁUKASZ",
+      "Liczba": "163",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "KONRAD",
+      "Liczba": "154",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "BŁAŻEJ",
+      "Liczba": "150",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "NATANIEL",
+      "Liczba": "150",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "DAMIAN",
+      "Liczba": "143",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "JEREMI",
+      "Liczba": "138",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "RADOSŁAW",
+      "Liczba": "136",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "JULIUSZ",
+      "Liczba": "124",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "JĘDRZEJ",
+      "Liczba": "121",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "FLORIAN",
+      "Liczba": "120",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "ALEX",
+      "Liczba": "115",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "REMIGIUSZ",
+      "Liczba": "106",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "KORDIAN",
+      "Liczba": "103",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "GRACJAN",
+      "Liczba": "102",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "LUDWIK",
+      "Liczba": "102",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "DORIAN",
+      "Liczba": "98",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "MAREK",
+      "Liczba": "98",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "ERNEST",
+      "Liczba": "94",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "MARK",
+      "Liczba": "93",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "ANDRZEJ",
+      "Liczba": "92",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "LUCJAN",
+      "Liczba": "91",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "ALBERT",
+      "Liczba": "89",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "WŁADYSŁAW",
+      "Liczba": "89",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "IWO",
+      "Liczba": "84",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "SAMUEL",
+      "Liczba": "84",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "ARKADIUSZ",
+      "Liczba": "80",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "MAKSYM",
+      "Liczba": "78",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "MAURYCY",
+      "Liczba": "75",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "ALEKSY",
+      "Liczba": "74",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "JACEK",
+      "Liczba": "74",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "BRAJAN",
+      "Liczba": "72",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "BENIAMIN",
+      "Liczba": "67",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "HUGO",
+      "Liczba": "65",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "SEWERYN",
+      "Liczba": "62",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "FRYDERYK",
+      "Liczba": "59",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "ALEXANDER",
+      "Liczba": "58",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "NORBERT",
+      "Liczba": "54",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "MAKS",
+      "Liczba": "52",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "ROMAN",
+      "Liczba": "52",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "JEREMIASZ",
+      "Liczba": "51",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "OLGIERD",
+      "Liczba": "51",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "EDWARD",
+      "Liczba": "50",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "SZCZEPAN",
+      "Liczba": "47",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "ZBIGNIEW",
+      "Liczba": "46",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "DAVID",
+      "Liczba": "45",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "ARON",
+      "Liczba": "44",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "KOSMA",
+      "Liczba": "42",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "JOACHIM",
+      "Liczba": "39",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "CYPRIAN",
+      "Liczba": "38",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "ARTEM",
+      "Liczba": "36",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "MARCELI",
+      "Liczba": "36",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "WINCENTY",
+      "Liczba": "35",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "BERNARD",
+      "Liczba": "34",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "DARIUSZ",
+      "Liczba": "34",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "OLIWER",
+      "Liczba": "34",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "BOGDAN",
+      "Liczba": "32",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "LIAM",
+      "Liczba": "32",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "OKTAWIAN",
+      "Liczba": "32",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "OLIVER",
+      "Liczba": "31",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "TIMUR",
+      "Liczba": "29",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "MAXIMILIAN",
+      "Liczba": "28",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "EMILIAN",
+      "Liczba": "27",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "SYLWESTER",
+      "Liczba": "27",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "GNIEWOMIR",
+      "Liczba": "26",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "LESZEK",
+      "Liczba": "26",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "TYTUS",
+      "Liczba": "26",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "VINCENT",
+      "Liczba": "26",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "ZACHARY",
+      "Liczba": "26",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "GNIEWKO",
+      "Liczba": "25",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "JONASZ",
+      "Liczba": "25",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "TEO",
+      "Liczba": "25",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "ZIEMOWIT",
+      "Liczba": "25",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "AMADEUSZ",
+      "Liczba": "24",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "BOLESŁAW",
+      "Liczba": "24",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "IVAN",
+      "Liczba": "24",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "MIRON",
+      "Liczba": "24",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "MAX",
+      "Liczba": "23",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "BRUNON",
+      "Liczba": "22",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "DANIIL",
+      "Liczba": "22",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "LEONARDO",
+      "Liczba": "22",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "OLEKSANDR",
+      "Liczba": "22",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "BOGUSŁAW",
+      "Liczba": "21",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "DENIS",
+      "Liczba": "21",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "ELIASZ",
+      "Liczba": "21",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "KSAWIER",
+      "Liczba": "21",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "NIKOLAS",
+      "Liczba": "21",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "ROCH",
+      "Liczba": "21",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "KASPIAN",
+      "Liczba": "20",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "SŁAWOMIR",
+      "Liczba": "20",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "LEOPOLD",
+      "Liczba": "19",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "MATVII",
+      "Liczba": "19",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "KASJAN",
+      "Liczba": "18",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "KLEMENS",
+      "Liczba": "18",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "MARIUSZ",
+      "Liczba": "18",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "ZYGMUNT",
+      "Liczba": "18",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "EDMUND",
+      "Liczba": "17",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "JONATAN",
+      "Liczba": "17",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "BARTEK",
+      "Liczba": "16",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "CZESŁAW",
+      "Liczba": "16",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "MARTIN",
+      "Liczba": "16",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "WIT",
+      "Liczba": "16",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "COLIN",
+      "Liczba": "15",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "FRANEK",
+      "Liczba": "15",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "IVO",
+      "Liczba": "15",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "JAROSŁAW",
+      "Liczba": "15",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "KORNELIUSZ",
+      "Liczba": "15",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "LEW",
+      "Liczba": "15",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "NICOLAS",
+      "Liczba": "15",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "OLEG",
+      "Liczba": "15",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "VIKTOR",
+      "Liczba": "15",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "WINCENT",
+      "Liczba": "15",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "AARON",
+      "Liczba": "14",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "BENJAMIN",
+      "Liczba": "14",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "BOGUMIŁ",
+      "Liczba": "14",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "EMANUEL",
+      "Liczba": "14",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "IRENEUSZ",
+      "Liczba": "14",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "ANTONIO",
+      "Liczba": "13",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "FELICJAN",
+      "Liczba": "13",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "KAI",
+      "Liczba": "13",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "KEVIN",
+      "Liczba": "13",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "MAKAR",
+      "Liczba": "13",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "MIECZYSŁAW",
+      "Liczba": "13",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "MIROSŁAW",
+      "Liczba": "13",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "VICTOR",
+      "Liczba": "13",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "ALEK",
+      "Liczba": "12",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "BRONISŁAW",
+      "Liczba": "12",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "IWAN",
+      "Liczba": "12",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "NIKITA",
+      "Liczba": "12",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "XAVIER",
+      "Liczba": "12",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "BRAYAN",
+      "Liczba": "11",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "DMYTRO",
+      "Liczba": "11",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "KRYSPIN",
+      "Liczba": "11",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "LUKA",
+      "Liczba": "11",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "MAKARY",
+      "Liczba": "11",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "OLEK",
+      "Liczba": "11",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "DIEGO",
+      "Liczba": "10",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "MARIAN",
+      "Liczba": "10",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "MAXYMILIAN",
+      "Liczba": "10",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "MICHAEL",
+      "Liczba": "10",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "MYKHAILO",
+      "Liczba": "10",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "NAZAR",
+      "Liczba": "10",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "OREST",
+      "Liczba": "10",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "TYMOFII",
+      "Liczba": "10",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "WILHELM",
+      "Liczba": "10",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "ARIEL",
+      "Liczba": "9",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "AUGUST",
+      "Liczba": "9",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "AUGUSTYN",
+      "Liczba": "9",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "DAMIR",
+      "Liczba": "9",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "DANYLO",
+      "Liczba": "9",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "DOBROMIR",
+      "Liczba": "9",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "GERARD",
+      "Liczba": "9",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "KRZESIMIR",
+      "Liczba": "9",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "LEV",
+      "Liczba": "9",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "MAKSIM",
+      "Liczba": "9",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "MATEO",
+      "Liczba": "9",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "NATHAN",
+      "Liczba": "9",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "NOAH",
+      "Liczba": "9",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "WALDEMAR",
+      "Liczba": "9",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "WILLIAM",
+      "Liczba": "9",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "YAROSLAV",
+      "Liczba": "9",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "ANTEK",
+      "Liczba": "8",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "BASTIAN",
+      "Liczba": "8",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "CYRYL",
+      "Liczba": "8",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "GNIEWOSZ",
+      "Liczba": "8",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "LECH",
+      "Liczba": "8",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "NATHANIEL",
+      "Liczba": "8",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "NOE",
+      "Liczba": "8",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "NOEL",
+      "Liczba": "8",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "PLATON",
+      "Liczba": "8",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "VLADYSLAV",
+      "Liczba": "8",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "ZACHARIASZ",
+      "Liczba": "8",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "ZAKHAR",
+      "Liczba": "8",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "AMBROŻY",
+      "Liczba": "7",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "ARSEN",
+      "Liczba": "7",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "BAZYLI",
+      "Liczba": "7",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "BENEDYKT",
+      "Liczba": "7",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "FELIX",
+      "Liczba": "7",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "HENRY",
+      "Liczba": "7",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "KEWIN",
+      "Liczba": "7",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "MATTEO",
+      "Liczba": "7",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "MATVEY",
+      "Liczba": "7",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "NIKO",
+      "Liczba": "7",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "RAFAEL",
+      "Liczba": "7",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "SERGIUSZ",
+      "Liczba": "7",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "WŁODZIMIERZ",
+      "Liczba": "7",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "ALEKSANDR",
+      "Liczba": "6",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "DENYS",
+      "Liczba": "6",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "EDGAR",
+      "Liczba": "6",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "HIERONIM",
+      "Liczba": "6",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "JAROMIR",
+      "Liczba": "6",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "KARIM",
+      "Liczba": "6",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "LUIS",
+      "Liczba": "6",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "MARKO",
+      "Liczba": "6",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "MARKUS",
+      "Liczba": "6",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "TEOFIL",
+      "Liczba": "6",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "VLADISLAV",
+      "Liczba": "6",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "ANATOL",
+      "Liczba": "5",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "ANDRII",
+      "Liczba": "5",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "ARIAN",
+      "Liczba": "5",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "DANIL",
+      "Liczba": "5",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "HEKTOR",
+      "Liczba": "5",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "ITAN",
+      "Liczba": "5",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "JANUSZ",
+      "Liczba": "5",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "JOEL",
+      "Liczba": "5",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "KAJ",
+      "Liczba": "5",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "KIRILL",
+      "Liczba": "5",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "LUBOMIR",
+      "Liczba": "5",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "LUCJUSZ",
+      "Liczba": "5",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "MARCO",
+      "Liczba": "5",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "MAXIM",
+      "Liczba": "5",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "PABLO",
+      "Liczba": "5",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "RAGNAR",
+      "Liczba": "5",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "SAMBOR",
+      "Liczba": "5",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "SANTIAGO",
+      "Liczba": "5",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "THEO",
+      "Liczba": "5",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "TYCJAN",
+      "Liczba": "5",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "VOLODYMYR",
+      "Liczba": "5",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "WAWRZYNIEC",
+      "Liczba": "5",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "XAWERY",
+      "Liczba": "5",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "ANDRIY",
+      "Liczba": "4",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "AXEL",
+      "Liczba": "4",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "BRIAN",
+      "Liczba": "4",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "DAVYD",
+      "Liczba": "4",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "DIONIZY",
+      "Liczba": "4",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "EMIR",
+      "Liczba": "4",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "EMMANUEL",
+      "Liczba": "4",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "ERIK",
+      "Liczba": "4",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "FRANK",
+      "Liczba": "4",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "GAWEŁ",
+      "Liczba": "4",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "GUSTAV",
+      "Liczba": "4",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "ILIAN",
+      "Liczba": "4",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "ILLIA",
+      "Liczba": "4",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "KLAUDIUSZ",
+      "Liczba": "4",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "KRISTIAN",
+      "Liczba": "4",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "LOUIS",
+      "Liczba": "4",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "LUKAS",
+      "Liczba": "4",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "MAGNUS",
+      "Liczba": "4",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "MANUEL",
+      "Liczba": "4",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "MATVEI",
+      "Liczba": "4",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "MATVIY",
+      "Liczba": "4",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "NATANAEL",
+      "Liczba": "4",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "NICHOLAS",
+      "Liczba": "4",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "OSCAR",
+      "Liczba": "4",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "PAVLO",
+      "Liczba": "4",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "RADOMIR",
+      "Liczba": "4",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "SAMIR",
+      "Liczba": "4",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "TIMOFEI",
+      "Liczba": "4",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "ZDZISŁAW",
+      "Liczba": "4",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "ALFRED",
+      "Liczba": "3",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "ALOJZY",
+      "Liczba": "3",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "AMIR",
+      "Liczba": "3",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "ANDREAS",
+      "Liczba": "3",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "ANTON",
+      "Liczba": "3",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "ARTHUR",
+      "Liczba": "3",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "AURELIUSZ",
+      "Liczba": "3",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "BALTAZAR",
+      "Liczba": "3",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "BJORN",
+      "Liczba": "3",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "BOHDAN",
+      "Liczba": "3",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "BRANDON",
+      "Liczba": "3",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "CHRISTOPHER",
+      "Liczba": "3",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "DAJAN",
+      "Liczba": "3",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "DANTE",
+      "Liczba": "3",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "DEMIAN",
+      "Liczba": "3",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "DUC ANH",
+      "Liczba": "3",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "ELDAR",
+      "Liczba": "3",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "ERWIN",
+      "Liczba": "3",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "EUGENIUSZ",
+      "Liczba": "3",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "GERALD",
+      "Liczba": "3",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "HASAN",
+      "Liczba": "3",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "IBRAHIM",
+      "Liczba": "3",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "ISMAEL",
+      "Liczba": "3",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "JOSHUA",
+      "Liczba": "3",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "JOSZKO",
+      "Liczba": "3",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "JUSTIN",
+      "Liczba": "3",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "KASPER",
+      "Liczba": "3",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "KIRIL",
+      "Liczba": "3",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "KONSTANTIN",
+      "Liczba": "3",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "KONSTANTYN",
+      "Liczba": "3",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "LARS",
+      "Liczba": "3",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "MARSEL",
+      "Liczba": "3",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "MATWIEJ",
+      "Liczba": "3",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "MATWIJ",
+      "Liczba": "3",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "MERT",
+      "Liczba": "3",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "MICHAIL",
+      "Liczba": "3",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "MIKAEL",
+      "Liczba": "3",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "NOLAN",
+      "Liczba": "3",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "PASCAL",
+      "Liczba": "3",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "PAVEL",
+      "Liczba": "3",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "PHILIP",
+      "Liczba": "3",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "RAUL",
+      "Liczba": "3",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "RAYAN",
+      "Liczba": "3",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "SERHII",
+      "Liczba": "3",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "SIEMOWIT",
+      "Liczba": "3",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "STANISLAW",
+      "Liczba": "3",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "SVIATOSLAV",
+      "Liczba": "3",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "TYBERIUSZ",
+      "Liczba": "3",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "VADYM",
+      "Liczba": "3",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "WOJTEK",
+      "Liczba": "3",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "XAWIER",
+      "Liczba": "3",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "YEVHENII",
+      "Liczba": "3",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "YURII",
+      "Liczba": "3",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "ZAKHARII",
+      "Liczba": "3",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "ZORIAN",
+      "Liczba": "3",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "ABRAHAM",
+      "Liczba": "2",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "AIDEN",
+      "Liczba": "2",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "AKSEL",
+      "Liczba": "2",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "ALEXANDRE",
+      "Liczba": "2",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "ALI",
+      "Liczba": "2",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "AMMAR",
+      "Liczba": "2",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "ANTONY",
+      "Liczba": "2",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "ARMANI",
+      "Liczba": "2",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "ARMIN",
+      "Liczba": "2",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "ARSALAN",
+      "Liczba": "2",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "ARTEMIY",
+      "Liczba": "2",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "ARTIOM",
+      "Liczba": "2",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "ASLAN",
+      "Liczba": "2",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "AVYAAN",
+      "Liczba": "2",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "BARNABA",
+      "Liczba": "2",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "BENON",
+      "Liczba": "2",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "BORIS",
+      "Liczba": "2",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "BOŻYDAR",
+      "Liczba": "2",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "BRYAN",
+      "Liczba": "2",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "CHRISTIAN",
+      "Liczba": "2",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "COLLIN",
+      "Liczba": "2",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "CONAN",
+      "Liczba": "2",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "CRISTIANO",
+      "Liczba": "2",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "DANYIL",
+      "Liczba": "2",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "DAWYD",
+      "Liczba": "2",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "DEMIR",
+      "Liczba": "2",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "DUSZAN",
+      "Liczba": "2",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "DYLAN",
+      "Liczba": "2",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "DYMITR",
+      "Liczba": "2",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "ELLIOT",
+      "Liczba": "2",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "EMILIANO",
+      "Liczba": "2",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "EMILIO",
+      "Liczba": "2",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "ENZO",
+      "Liczba": "2",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "EUZEBIUSZ",
+      "Liczba": "2",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "FILIPE",
+      "Liczba": "2",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "FLAVIO",
+      "Liczba": "2",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "FRANCESCO",
+      "Liczba": "2",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "FRANCISCO",
+      "Liczba": "2",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "FRANCO",
+      "Liczba": "2",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "FRANKO",
+      "Liczba": "2",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "GAEL",
+      "Liczba": "2",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "GAJUSZ",
+      "Liczba": "2",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "GEORGE",
+      "Liczba": "2",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "GIA HUY",
+      "Liczba": "2",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "GILBERT",
+      "Liczba": "2",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "GLEB",
+      "Liczba": "2",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "GNIEWOSŁAW",
+      "Liczba": "2",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "HERBERT",
+      "Liczba": "2",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "HORACY",
+      "Liczba": "2",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "ILYAS",
+      "Liczba": "2",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "IVAAN",
+      "Liczba": "2",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "IWAR",
+      "Liczba": "2",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "JAMES",
+      "Liczba": "2",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "JANEK",
+      "Liczba": "2",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "JAREMA",
+      "Liczba": "2",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "JONAS",
+      "Liczba": "2",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "JORDAN",
+      "Liczba": "2",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "KIAAN",
+      "Liczba": "2",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "KILIAN",
+      "Liczba": "2",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "KONSTANTINOS",
+      "Liczba": "2",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "KYRYLO",
+      "Liczba": "2",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "LEONID",
+      "Liczba": "2",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "LEONIDAS",
+      "Liczba": "2",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "LESŁAW",
+      "Liczba": "2",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "LIONEL",
+      "Liczba": "2",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "LORENCO",
+      "Liczba": "2",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "LUCAS",
+      "Liczba": "2",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "MANFRED",
+      "Liczba": "2",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "MARCELL",
+      "Liczba": "2",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "MATE",
+      "Liczba": "2",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "MATEI",
+      "Liczba": "2",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "MICHELE",
+      "Liczba": "2",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "MIHAIL",
+      "Liczba": "2",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "MIKHAIL",
+      "Liczba": "2",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "MILO",
+      "Liczba": "2",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "MIŁOSŁAW",
+      "Liczba": "2",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "MIROSLAV",
+      "Liczba": "2",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "MIROSLAW",
+      "Liczba": "2",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "MUHAMMAD",
+      "Liczba": "2",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "MUSTAFA",
+      "Liczba": "2",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "MYRON",
+      "Liczba": "2",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "NEIL",
+      "Liczba": "2",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "NIKOS",
+      "Liczba": "2",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "OLEKSANDER",
+      "Liczba": "2",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "OLEKSII",
+      "Liczba": "2",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "OTTON",
+      "Liczba": "2",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "RACIBOR",
+      "Liczba": "2",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "RADEK",
+      "Liczba": "2",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "RADZIMIR",
+      "Liczba": "2",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "RENAT",
+      "Liczba": "2",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "RICHARD",
+      "Liczba": "2",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "ROGER",
+      "Liczba": "2",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "ROMEO",
+      "Liczba": "2",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "RUBEN",
+      "Liczba": "2",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "SERAFIN",
+      "Liczba": "2",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "SEVER",
+      "Liczba": "2",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "SIMON",
+      "Liczba": "2",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "STANISLAV",
+      "Liczba": "2",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "TADEI",
+      "Liczba": "2",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "TARAS",
+      "Liczba": "2",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "THOMAS",
+      "Liczba": "2",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "TIAGO",
+      "Liczba": "2",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "TIGRAN",
+      "Liczba": "2",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "TIMOFEY",
+      "Liczba": "2",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "TOMAS",
+      "Liczba": "2",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "TONY",
+      "Liczba": "2",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "TRAIAN",
+      "Liczba": "2",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "TRISTAN",
+      "Liczba": "2",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "TYMOFIJ",
+      "Liczba": "2",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "USMAN",
+      "Liczba": "2",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "WALERIAN",
+      "Liczba": "2",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "WILKOMIR",
+      "Liczba": "2",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "WITOSZ",
+      "Liczba": "2",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "WLADYSLAW",
+      "Liczba": "2",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "YOUSSEF",
+      "Liczba": "2",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "ZAHAR",
+      "Liczba": "2",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "ZLATAN",
+      "Liczba": "2",
+      "Płeć": "M"
+    },
+    {
+      "Imię": "ZUZANNA",
+      "Liczba": "3251",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "ZOFIA",
+      "Liczba": "3178",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "HANNA",
+      "Liczba": "3064",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "JULIA",
+      "Liczba": "3022",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "MAJA",
+      "Liczba": "2812",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "LAURA",
+      "Liczba": "2679",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "OLIWIA",
+      "Liczba": "2377",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "ALICJA",
+      "Liczba": "2362",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "LENA",
+      "Liczba": "2309",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "POLA",
+      "Liczba": "2190",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "MARIA",
+      "Liczba": "2054",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "EMILIA",
+      "Liczba": "1746",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "ANTONINA",
+      "Liczba": "1717",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "AMELIA",
+      "Liczba": "1638",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "IGA",
+      "Liczba": "1585",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "MARCELINA",
+      "Liczba": "1577",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "WIKTORIA",
+      "Liczba": "1532",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "ALEKSANDRA",
+      "Liczba": "1472",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "MICHALINA",
+      "Liczba": "1412",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "LILIANA",
+      "Liczba": "1411",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "HELENA",
+      "Liczba": "1285",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "KLARA",
+      "Liczba": "1250",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "NATALIA",
+      "Liczba": "1148",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "GABRIELA",
+      "Liczba": "1126",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "NADIA",
+      "Liczba": "1075",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "ANNA",
+      "Liczba": "1064",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "BLANKA",
+      "Liczba": "1039",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "KORNELIA",
+      "Liczba": "1034",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "ŁUCJA",
+      "Liczba": "931",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "JAGODA",
+      "Liczba": "859",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "NELA",
+      "Liczba": "772",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "MILENA",
+      "Liczba": "726",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "KAJA",
+      "Liczba": "699",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "LILIANNA",
+      "Liczba": "693",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "ANASTAZJA",
+      "Liczba": "684",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "NINA",
+      "Liczba": "638",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "NIKOLA",
+      "Liczba": "611",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "WERONIKA",
+      "Liczba": "605",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "MARTYNA",
+      "Liczba": "595",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "BARBARA",
+      "Liczba": "567",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "MATYLDA",
+      "Liczba": "549",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "RÓŻA",
+      "Liczba": "537",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "ANIELA",
+      "Liczba": "526",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "KAROLINA",
+      "Liczba": "494",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "MIA",
+      "Liczba": "494",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "AGATA",
+      "Liczba": "493",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "ROZALIA",
+      "Liczba": "476",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "MAGDALENA",
+      "Liczba": "441",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "SARA",
+      "Liczba": "406",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "KINGA",
+      "Liczba": "392",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "ADRIANNA",
+      "Liczba": "372",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "GAJA",
+      "Liczba": "368",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "ELIZA",
+      "Liczba": "358",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "LIWIA",
+      "Liczba": "349",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "MARIANNA",
+      "Liczba": "334",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "AURELIA",
+      "Liczba": "321",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "MAŁGORZATA",
+      "Liczba": "321",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "KALINA",
+      "Liczba": "316",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "IZABELA",
+      "Liczba": "304",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "JOANNA",
+      "Liczba": "291",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "EWA",
+      "Liczba": "285",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "LIDIA",
+      "Liczba": "271",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "URSZULA",
+      "Liczba": "261",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "DOMINIKA",
+      "Liczba": "257",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "MELANIA",
+      "Liczba": "253",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "PAULINA",
+      "Liczba": "252",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "BIANKA",
+      "Liczba": "248",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "ZOJA",
+      "Liczba": "231",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "APOLONIA",
+      "Liczba": "229",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "MALWINA",
+      "Liczba": "227",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "KATARZYNA",
+      "Liczba": "222",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "MARTA",
+      "Liczba": "222",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "IDA",
+      "Liczba": "221",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "WANDA",
+      "Liczba": "203",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "KLAUDIA",
+      "Liczba": "194",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "OLGA",
+      "Liczba": "181",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "JAGNA",
+      "Liczba": "178",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "PATRYCJA",
+      "Liczba": "173",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "DIANA",
+      "Liczba": "161",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "DOROTA",
+      "Liczba": "158",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "DARIA",
+      "Liczba": "146",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "STEFANIA",
+      "Liczba": "144",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "MARIKA",
+      "Liczba": "133",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "RITA",
+      "Liczba": "132",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "ADA",
+      "Liczba": "131",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "ELENA",
+      "Liczba": "125",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "LARA",
+      "Liczba": "121",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "LUIZA",
+      "Liczba": "116",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "KAMILA",
+      "Liczba": "112",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "NEL",
+      "Liczba": "106",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "SOFIA",
+      "Liczba": "105",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "CELINA",
+      "Liczba": "97",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "LILA",
+      "Liczba": "97",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "EMMA",
+      "Liczba": "95",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "JANINA",
+      "Liczba": "93",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "DAGMARA",
+      "Liczba": "92",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "ELŻBIETA",
+      "Liczba": "92",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "INGA",
+      "Liczba": "92",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "JADWIGA",
+      "Liczba": "92",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "LILIA",
+      "Liczba": "92",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "SONIA",
+      "Liczba": "92",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "ADELA",
+      "Liczba": "90",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "MONIKA",
+      "Liczba": "90",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "LEA",
+      "Liczba": "85",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "TOLA",
+      "Liczba": "81",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "AGNIESZKA",
+      "Liczba": "76",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "FELICJA",
+      "Liczba": "76",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "JAŚMINA",
+      "Liczba": "76",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "SANDRA",
+      "Liczba": "76",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "ROKSANA",
+      "Liczba": "71",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "MARLENA",
+      "Liczba": "69",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "OLIVIA",
+      "Liczba": "68",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "ALINA",
+      "Liczba": "66",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "JUSTYNA",
+      "Liczba": "65",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "JULITA",
+      "Liczba": "61",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "KARINA",
+      "Liczba": "61",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "NOEMI",
+      "Liczba": "58",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "ESTERA",
+      "Liczba": "57",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "JUDYTA",
+      "Liczba": "57",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "JULIANNA",
+      "Liczba": "57",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "GLORIA",
+      "Liczba": "55",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "JOWITA",
+      "Liczba": "53",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "KRYSTYNA",
+      "Liczba": "53",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "ANITA",
+      "Liczba": "50",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "INKA",
+      "Liczba": "50",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "FAUSTYNA",
+      "Liczba": "49",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "IRENA",
+      "Liczba": "49",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "FRANCISZKA",
+      "Liczba": "48",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "MILA",
+      "Liczba": "46",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "FLORENTYNA",
+      "Liczba": "45",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "KONSTANCJA",
+      "Liczba": "44",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "EWELINA",
+      "Liczba": "43",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "IZABELLA",
+      "Liczba": "43",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "VANESSA",
+      "Liczba": "43",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "NATASZA",
+      "Liczba": "42",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "TERESA",
+      "Liczba": "42",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "OKTAWIA",
+      "Liczba": "41",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "VICTORIA",
+      "Liczba": "40",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "LIVIA",
+      "Liczba": "39",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "MALINA",
+      "Liczba": "39",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "MARIETTA",
+      "Liczba": "37",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "OTYLIA",
+      "Liczba": "37",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "KLEMENTYNA",
+      "Liczba": "35",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "SABINA",
+      "Liczba": "35",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "ALISA",
+      "Liczba": "34",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "DANUTA",
+      "Liczba": "34",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "LUCYNA",
+      "Liczba": "33",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "POLINA",
+      "Liczba": "32",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "STELLA",
+      "Liczba": "32",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "MILANA",
+      "Liczba": "31",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "ARIANA",
+      "Liczba": "30",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "AURORA",
+      "Liczba": "29",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "EVA",
+      "Liczba": "29",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "INEZ",
+      "Liczba": "28",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "JÓZEFINA",
+      "Liczba": "28",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "MIRA",
+      "Liczba": "28",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "SYLWIA",
+      "Liczba": "28",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "NICOLA",
+      "Liczba": "27",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "PAULA",
+      "Liczba": "26",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "ANTONIA",
+      "Liczba": "25",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "CECYLIA",
+      "Liczba": "25",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "HALINA",
+      "Liczba": "24",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "AMANDA",
+      "Liczba": "23",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "OLA",
+      "Liczba": "23",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "ADRIANA",
+      "Liczba": "21",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "MARINA",
+      "Liczba": "21",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "ANETA",
+      "Liczba": "20",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "DOBRAWA",
+      "Liczba": "20",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "EDYTA",
+      "Liczba": "20",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "IDALIA",
+      "Liczba": "20",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "KIRA",
+      "Liczba": "20",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "LARYSA",
+      "Liczba": "20",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "MAGDA",
+      "Liczba": "20",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "NAOMI",
+      "Liczba": "20",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "TAMARA",
+      "Liczba": "20",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "DALIA",
+      "Liczba": "19",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "INES",
+      "Liczba": "19",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "NASTIA",
+      "Liczba": "19",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "NELIA",
+      "Liczba": "19",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "SOFIIA",
+      "Liczba": "19",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "ZLATA",
+      "Liczba": "19",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "JESSICA",
+      "Liczba": "18",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "LETYCJA",
+      "Liczba": "18",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "LUNA",
+      "Liczba": "18",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "MIRIAM",
+      "Liczba": "18",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "JANA",
+      "Liczba": "17",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "MELISA",
+      "Liczba": "17",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "ROMA",
+      "Liczba": "17",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "ADELINA",
+      "Liczba": "16",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "ANGELIKA",
+      "Liczba": "16",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "LILI",
+      "Liczba": "16",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "VIKTORIA",
+      "Liczba": "16",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "WALERIA",
+      "Liczba": "16",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "GAIA",
+      "Liczba": "15",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "LILLA",
+      "Liczba": "15",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "MAYA",
+      "Liczba": "15",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "NADZIEJA",
+      "Liczba": "15",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "NICOLE",
+      "Liczba": "15",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "ABIGAIL",
+      "Liczba": "14",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "HONORATA",
+      "Liczba": "14",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "KSENIA",
+      "Liczba": "14",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "MARCELA",
+      "Liczba": "14",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "OLIMPIA",
+      "Liczba": "14",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "ZOE",
+      "Liczba": "14",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "FLORA",
+      "Liczba": "13",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "HALSZKA",
+      "Liczba": "13",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "ORIANA",
+      "Liczba": "13",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "ZOYA",
+      "Liczba": "13",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "BERENIKA",
+      "Liczba": "12",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "BOGNA",
+      "Liczba": "12",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "ELEONORA",
+      "Liczba": "12",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "ILONA",
+      "Liczba": "12",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "IRMINA",
+      "Liczba": "12",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "IWONA",
+      "Liczba": "12",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "JOLANTA",
+      "Liczba": "12",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "LUKRECJA",
+      "Liczba": "12",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "MARCJANNA",
+      "Liczba": "12",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "MARYLA",
+      "Liczba": "12",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "SELENA",
+      "Liczba": "12",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "VERONIKA",
+      "Liczba": "12",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "ANDŻELIKA",
+      "Liczba": "11",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "BEATA",
+      "Liczba": "11",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "HANA",
+      "Liczba": "11",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "HIACYNTA",
+      "Liczba": "11",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "LIA",
+      "Liczba": "11",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "MAJKA",
+      "Liczba": "11",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "OLEKSANDRA",
+      "Liczba": "11",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "ARINA",
+      "Liczba": "10",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "LEONIA",
+      "Liczba": "10",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "LEYLA",
+      "Liczba": "10",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "LILLY",
+      "Liczba": "10",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "OLENA",
+      "Liczba": "10",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "TATIANA",
+      "Liczba": "10",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "WALENTYNA",
+      "Liczba": "10",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "WANESSA",
+      "Liczba": "10",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "ANASTASIA",
+      "Liczba": "9",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "ANASTASIIA",
+      "Liczba": "9",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "BOGUMIŁA",
+      "Liczba": "9",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "CARMEN",
+      "Liczba": "9",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "EMILIIA",
+      "Liczba": "9",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "EMILY",
+      "Liczba": "9",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "GABRIELLA",
+      "Liczba": "9",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "LAYLA",
+      "Liczba": "9",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "NELLA",
+      "Liczba": "9",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "NIKOL",
+      "Liczba": "9",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "SOPHIA",
+      "Liczba": "9",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "VARVARA",
+      "Liczba": "9",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "WIOLETTA",
+      "Liczba": "9",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "ADELAJDA",
+      "Liczba": "8",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "ANGELINA",
+      "Liczba": "8",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "ARIA",
+      "Liczba": "8",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "ARIADNA",
+      "Liczba": "8",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "DANIELA",
+      "Liczba": "8",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "GRETA",
+      "Liczba": "8",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "JASMINA",
+      "Liczba": "8",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "LEOKADIA",
+      "Liczba": "8",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "MARIIA",
+      "Liczba": "8",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "MICHELLE",
+      "Liczba": "8",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "SOFIJA",
+      "Liczba": "8",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "SOPHIE",
+      "Liczba": "8",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "VIKTORIIA",
+      "Liczba": "8",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "ALENA",
+      "Liczba": "7",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "AMINA",
+      "Liczba": "7",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "ARLETA",
+      "Liczba": "7",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "BIANCA",
+      "Liczba": "7",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "CELESTYNA",
+      "Liczba": "7",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "ELINA",
+      "Liczba": "7",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "ILIANA",
+      "Liczba": "7",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "LAILA",
+      "Liczba": "7",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "MARITA",
+      "Liczba": "7",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "MELISSA",
+      "Liczba": "7",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "MIJA",
+      "Liczba": "7",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "MIROSŁAWA",
+      "Liczba": "7",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "SAMANTA",
+      "Liczba": "7",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "TOSIA",
+      "Liczba": "7",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "ANIKA",
+      "Liczba": "6",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "ARIANNA",
+      "Liczba": "6",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "DOBROMIŁA",
+      "Liczba": "6",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "EMANUELA",
+      "Liczba": "6",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "JULIANA",
+      "Liczba": "6",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "KATERYNA",
+      "Liczba": "6",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "KATIA",
+      "Liczba": "6",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "LEILA",
+      "Liczba": "6",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "LILY",
+      "Liczba": "6",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "LUDMIŁA",
+      "Liczba": "6",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "MARIOLA",
+      "Liczba": "6",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "MIŁA",
+      "Liczba": "6",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "MIRELLA",
+      "Liczba": "6",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "NASTAZJA",
+      "Liczba": "6",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "NELLY",
+      "Liczba": "6",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "NIKA",
+      "Liczba": "6",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "RENATA",
+      "Liczba": "6",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "STANISŁAWA",
+      "Liczba": "6",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "VIVIEN",
+      "Liczba": "6",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "ZUZA",
+      "Liczba": "6",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "ALEXANDRA",
+      "Liczba": "5",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "ANA",
+      "Liczba": "5",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "ARIELA",
+      "Liczba": "5",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "BOŻENA",
+      "Liczba": "5",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "BRYGIDA",
+      "Liczba": "5",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "ELIANA",
+      "Liczba": "5",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "GRAŻYNA",
+      "Liczba": "5",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "INA",
+      "Liczba": "5",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "KIARA",
+      "Liczba": "5",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "LINDA",
+      "Liczba": "5",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "MARZENA",
+      "Liczba": "5",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "MATILDA",
+      "Liczba": "5",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "MIIA",
+      "Liczba": "5",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "NAWOJKA",
+      "Liczba": "5",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "OFELIA",
+      "Liczba": "5",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "REGINA",
+      "Liczba": "5",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "SOLOMIIA",
+      "Liczba": "5",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "VERA",
+      "Liczba": "5",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "WERA",
+      "Liczba": "5",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "WIWIANA",
+      "Liczba": "5",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "YEVA",
+      "Liczba": "5",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "ZYTA",
+      "Liczba": "5",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "AISHA",
+      "Liczba": "4",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "ALANA",
+      "Liczba": "4",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "ALIA",
+      "Liczba": "4",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "AMIRA",
+      "Liczba": "4",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "ANABELLA",
+      "Liczba": "4",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "ANATOLA",
+      "Liczba": "4",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "AYLA",
+      "Liczba": "4",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "AYLIN",
+      "Liczba": "4",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "CATALEYA",
+      "Liczba": "4",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "CHARLOTTE",
+      "Liczba": "4",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "DAJANA",
+      "Liczba": "4",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "DOBROCHNA",
+      "Liczba": "4",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "DOBROSŁAWA",
+      "Liczba": "4",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "ERIKA",
+      "Liczba": "4",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "EUNIKA",
+      "Liczba": "4",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "EVELINA",
+      "Liczba": "4",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "FLORENCJA",
+      "Liczba": "4",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "IZA",
+      "Liczba": "4",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "JANKA",
+      "Liczba": "4",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "KAMELIA",
+      "Liczba": "4",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "KATALEJA",
+      "Liczba": "4",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "LIANA",
+      "Liczba": "4",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "LINA",
+      "Liczba": "4",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "LORENA",
+      "Liczba": "4",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "LUDWIKA",
+      "Liczba": "4",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "MALIKA",
+      "Liczba": "4",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "MIKAELA",
+      "Liczba": "4",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "MIROSLAVA",
+      "Liczba": "4",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "NELL",
+      "Liczba": "4",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "SABRINA",
+      "Liczba": "4",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "SAMIRA",
+      "Liczba": "4",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "SARAH",
+      "Liczba": "4",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "SOLOMIJA",
+      "Liczba": "4",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "VALENTINA",
+      "Liczba": "4",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "YANA",
+      "Liczba": "4",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "ŻANETA",
+      "Liczba": "4",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "ADELE",
+      "Liczba": "3",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "AIDA",
+      "Liczba": "3",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "ALDONA",
+      "Liczba": "3",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "ALICE",
+      "Liczba": "3",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "BALBINA",
+      "Liczba": "3",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "BELLA",
+      "Liczba": "3",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "BLANCA",
+      "Liczba": "3",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "BRONISŁAWA",
+      "Liczba": "3",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "CYNTIA",
+      "Liczba": "3",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "DAGNA",
+      "Liczba": "3",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "DARYNA",
+      "Liczba": "3",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "DEBORA",
+      "Liczba": "3",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "ELIZABETH",
+      "Liczba": "3",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "ELIZAVETA",
+      "Liczba": "3",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "ELWIRA",
+      "Liczba": "3",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "FREYA",
+      "Liczba": "3",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "GIULIA",
+      "Liczba": "3",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "GRACJA",
+      "Liczba": "3",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "HANIA",
+      "Liczba": "3",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "ILARIIA",
+      "Liczba": "3",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "KAYLA",
+      "Liczba": "3",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "LANA",
+      "Liczba": "3",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "LEJA",
+      "Liczba": "3",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "LISA",
+      "Liczba": "3",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "MELODIA",
+      "Liczba": "3",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "MIRANDA",
+      "Liczba": "3",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "MIYA",
+      "Liczba": "3",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "NICOL",
+      "Liczba": "3",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "OLIVIIA",
+      "Liczba": "3",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "RACHELA",
+      "Liczba": "3",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "SALMA",
+      "Liczba": "3",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "SŁAWA",
+      "Liczba": "3",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "TINA",
+      "Liczba": "3",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "VALERIA",
+      "Liczba": "3",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "VALERIIA",
+      "Liczba": "3",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "VIVIANA",
+      "Liczba": "3",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "VIVIENNE",
+      "Liczba": "3",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "YELYZAVETA",
+      "Liczba": "3",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "ZOSIA",
+      "Liczba": "3",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "ŻYWIA",
+      "Liczba": "3",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "AFINA",
+      "Liczba": "2",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "AIZA",
+      "Liczba": "2",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "ALICA",
+      "Liczba": "2",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "ALISIA",
+      "Liczba": "2",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "ALISON",
+      "Liczba": "2",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "AMADEA",
+      "Liczba": "2",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "AMALIA",
+      "Liczba": "2",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "AMARA",
+      "Liczba": "2",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "AMELIE",
+      "Liczba": "2",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "ANATOLIA",
+      "Liczba": "2",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "ANNABELLE",
+      "Liczba": "2",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "ARLETTA",
+      "Liczba": "2",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "ARMINA",
+      "Liczba": "2",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "ARYA",
+      "Liczba": "2",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "ASTRID",
+      "Liczba": "2",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "ATENA",
+      "Liczba": "2",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "AVRORA",
+      "Liczba": "2",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "BERNADETTA",
+      "Liczba": "2",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "BIBIANNA",
+      "Liczba": "2",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "BOGDANA",
+      "Liczba": "2",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "CAMILLA",
+      "Liczba": "2",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "CECILIA",
+      "Liczba": "2",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "CHIARA",
+      "Liczba": "2",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "CHLOE",
+      "Liczba": "2",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "CIRILLA",
+      "Liczba": "2",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "DARINA",
+      "Liczba": "2",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "DARJA",
+      "Liczba": "2",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "DĄBRÓWKA",
+      "Liczba": "2",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "DELIA",
+      "Liczba": "2",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "DILARA",
+      "Liczba": "2",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "DŻESIKA",
+      "Liczba": "2",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "EKATERINA",
+      "Liczba": "2",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "ELLA",
+      "Liczba": "2",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "EMA",
+      "Liczba": "2",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "EMILI",
+      "Liczba": "2",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "ENOLA",
+      "Liczba": "2",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "FILOMENA",
+      "Liczba": "2",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "FLAWIA",
+      "Liczba": "2",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "GABI",
+      "Liczba": "2",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "GIA HAN",
+      "Liczba": "2",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "HANIFA",
+      "Liczba": "2",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "HANNAH",
+      "Liczba": "2",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "HORTENSJA",
+      "Liczba": "2",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "INGRID",
+      "Liczba": "2",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "IRYNA",
+      "Liczba": "2",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "IVANA",
+      "Liczba": "2",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "IVANNA",
+      "Liczba": "2",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "IWANKA",
+      "Liczba": "2",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "JELENA",
+      "Liczba": "2",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "KARMEN",
+      "Liczba": "2",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "KASJANA",
+      "Liczba": "2",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "KATARINA",
+      "Liczba": "2",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "KATRINA",
+      "Liczba": "2",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "KAYA",
+      "Liczba": "2",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "KEIRA",
+      "Liczba": "2",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "KORA",
+      "Liczba": "2",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "LARISSA",
+      "Liczba": "2",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "LEJLA",
+      "Liczba": "2",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "LENKA",
+      "Liczba": "2",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "LEONIE",
+      "Liczba": "2",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "LIGIA",
+      "Liczba": "2",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "LIJA",
+      "Liczba": "2",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "LILLI",
+      "Liczba": "2",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "LOUISE",
+      "Liczba": "2",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "LUCIA",
+      "Liczba": "2",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "LUCY",
+      "Liczba": "2",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "MADISON",
+      "Liczba": "2",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "MAIA",
+      "Liczba": "2",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "MANUELA",
+      "Liczba": "2",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "MARCYJANNA",
+      "Liczba": "2",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "MARIAM",
+      "Liczba": "2",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "MARIAMI",
+      "Liczba": "2",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "MARIE",
+      "Liczba": "2",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "MARIYA",
+      "Liczba": "2",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "MARYNA",
+      "Liczba": "2",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "MEGAN",
+      "Liczba": "2",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "MELA",
+      "Liczba": "2",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "MERCEDES",
+      "Liczba": "2",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "MIŁOSŁAWA",
+      "Liczba": "2",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "MINH ANH",
+      "Liczba": "2",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "MINH TRANG",
+      "Liczba": "2",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "MIRABELLA",
+      "Liczba": "2",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "MIRELA",
+      "Liczba": "2",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "NADIEŻDA",
+      "Liczba": "2",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "NASTURCJA",
+      "Liczba": "2",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "NELI",
+      "Liczba": "2",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "NIA",
+      "Liczba": "2",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "NICOLETTA",
+      "Liczba": "2",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "NIKANDRA",
+      "Liczba": "2",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "NIKOLE",
+      "Liczba": "2",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "NIKOLETA",
+      "Liczba": "2",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "NIKOLETTA",
+      "Liczba": "2",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "NILA",
+      "Liczba": "2",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "NITA",
+      "Liczba": "2",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "NOELIA",
+      "Liczba": "2",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "OKSANA",
+      "Liczba": "2",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "ORINA",
+      "Liczba": "2",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "PAMELA",
+      "Liczba": "2",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "PELAGIA",
+      "Liczba": "2",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "REBEKA",
+      "Liczba": "2",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "RONJA",
+      "Liczba": "2",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "ROXANA",
+      "Liczba": "2",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "RUTA",
+      "Liczba": "2",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "SAMIJA",
+      "Liczba": "2",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "SELA",
+      "Liczba": "2",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "SOFI",
+      "Liczba": "2",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "SOLOMIA",
+      "Liczba": "2",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "SORAYA",
+      "Liczba": "2",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "TEKLA",
+      "Liczba": "2",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "TEONA",
+      "Liczba": "2",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "VASILISA",
+      "Liczba": "2",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "VIOLETTA",
+      "Liczba": "2",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "VIRGINIA",
+      "Liczba": "2",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "WANESA",
+      "Liczba": "2",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "WARWARA",
+      "Liczba": "2",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "WIERA",
+      "Liczba": "2",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "WIOLETA",
+      "Liczba": "2",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "WIRGINIA",
+      "Liczba": "2",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "YASMIN",
+      "Liczba": "2",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "ZŁATA",
+      "Liczba": "2",
+      "Płeć": "K"
+    },
+    {
+      "Imię": "ŻAKLINA",
+      "Liczba": "2",
+      "Płeć": "K"
+    }
+  ]
+}
